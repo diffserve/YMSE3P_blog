@@ -3,8 +3,8 @@
 module.exports = {
   url: 'https://lumen.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'YMSE3P',
+  subtitle: '完全独学でAndoridアプリエンジニアを目指しています',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,26 +25,26 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'YMSE3P',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: '完全独学でAndoridアプリエンジニアを目指しています',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'diffserve0826@gmail.com',
+      facebook: '',
+      telegram: '',
+      twitter: 'https://twitter.com/PYmse3',
+      github: 'https://github.com/diffserve',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: '',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: ''
     }
   }
 };
